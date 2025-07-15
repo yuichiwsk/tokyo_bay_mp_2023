@@ -1,7 +1,7 @@
 # Tokyo Bay Microplastic Dataset 2023
 
-This repository provides the raw dataset obtained from a 2023 survey of microplastic particles in Tokyo Bay, Japan.  
-The data include information on the size, abundance, and characteristics of microplastic particles collected from **surface water** and **sediment** samples.
+This repository contains the raw dataset obtained from a 2023 survey of microplastic particles in Tokyo Bay, Japan.
+The dataset includes information on the size and characteristics of individual microplastic particles collected from **surface water** and **sediment** samples.
 
 ## File
 | `Tokyo_Bay_Microplastic_Data_2023_ver1.xlsx` | 15 July 2025 |
