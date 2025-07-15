@@ -11,5 +11,4 @@ Released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 
 ## Citation
 ```text
-Koji Ueda, Yutaka Kameda, Emiko Fujita, Gakushi Fujimura, Eiji Fukazawa, Yutaro Numazawa, Yuichi Iwasaki, Wataru Naito (in prep) Size-specific distribution, morphology, and polymer composition of microplastic particles in surface water and sediments of Tokyo Bay
-Tokyo Bay Microplastic Dataset 2023 (ver. 1).
+Koji Ueda, Yutaka Kameda, Emiko Fujita, Gakushi Fujimura, Eiji Fukazawa, Yutaro Numazawa, Yuichi Iwasaki, Wataru Naito (to be submitted) Size-specific distribution, morphology, and polymer composition of microplastic particles in surface water and sediments of Tokyo Bay.
